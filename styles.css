@@ -1,1 +1,58 @@
+/* Global Page Styling */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f2f4f7; /* light gray background */
+  color: #333333;
+  margin: 0;
+  padding: 0;
+}
+
+/* CV Container */
+.container {
+  max-width: 800px;
+  background-color: #ffffff;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Main Name Heading */
+h1 {
+  font-size: 36px;
+  color: #2c3e50;
+  margin-bottom: 5px;
+}
+
+/* Section Headings */
+h2 {
+  font-size: 24px;
+  color: #34495e;
+  border-bottom: 2px solid #dddddd;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+/* Paragraph Text */
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Contact Info */
+.contact-info {
+  font-size: 14px;
+  color: #555555;
+  margin-bottom: 20px;
+}
+
+/* Lists */
+ul {
+  padding-left: 20px;
+}
+
+li {
+  font-size: 16px;
+  margin-bottom: 6px;
+}
 
